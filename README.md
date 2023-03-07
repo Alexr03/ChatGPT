@@ -2,6 +2,8 @@
 
 **This is the EAP version of the ChatGPT plugin, supported version: `2023.1 ~ 2023.*`**
 
+## Important: At present, Open AI officially does not support Google/Microsoft account login, not because the plugin does not support it
+
 [ChatGPT](https://chat.openai.com/chat) is a language model trained
 by OpenAI and can be used for a variety of tasks, including dialogue
 and text generation. ChatGPT is a neural network-based model that is

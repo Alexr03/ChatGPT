@@ -2,6 +2,9 @@
 
 # ChatGPT Changelog
 ## [Unreleased]
+## [2.1.3-231.EAP]
+### Added
++ Support for adding custom prefixes
 
 ## [2.1.2-231.EAP]
 ### Added
